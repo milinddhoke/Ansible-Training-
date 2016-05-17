@@ -1,0 +1,3 @@
+# This is a introductory page for ansible. 
+Ansible is a configuration management tool. One system is controll machine. Withthe help of this controll machine we can manage and configure other hosts.
+
